@@ -1,0 +1,22 @@
+# Site settings
+title: "[2,+∞)"
+email: arzyu@live.cn
+description: >- # this means to ignore newlines until "baseurl:"
+  arzyu
+baseurl: ""
+url: "https://arzx.org"
+twitter_username: arzyu
+github_username: arzyu
+
+collections:
+  posts:
+    permalink: /posts/:year-:month-:day-:title.html
+
+lang: zh-CN
+timezone: Asia/Shanghai
+
+# Build settings
+remote_theme: arzyu/jekyll-theme-infty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
