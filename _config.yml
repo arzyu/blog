@@ -17,6 +17,9 @@ timezone: Asia/Shanghai
 
 google_analytics: UA-155052719-1
 
+disqus:
+  shortname: arzyu
+
 # Build settings
 remote_theme: arzyu/jekyll-theme-infty
 plugins:
