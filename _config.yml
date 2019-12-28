@@ -15,6 +15,8 @@ collections:
 lang: zh-CN
 timezone: Asia/Shanghai
 
+google_analytics: UA-155052719-1
+
 # Build settings
 remote_theme: arzyu/jekyll-theme-infty
 plugins:
